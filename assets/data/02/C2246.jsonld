@@ -33,22 +33,22 @@
         "@id": "https://w3id.org/ocs/ont/C9479"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C4160"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C1036"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10051"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8278"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12539"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1095"
+        "@id": "https://w3id.org/ocs/ont/C8278"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4160"
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1095"
       }
     ]
   }

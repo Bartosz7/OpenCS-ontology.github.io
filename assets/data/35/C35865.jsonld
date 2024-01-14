@@ -12,10 +12,10 @@
         "@id": "https://w3id.org/ocs/ont/C29280"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13880"
+        "@id": "https://w3id.org/ocs/ont/C28340"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28340"
+        "@id": "https://w3id.org/ocs/ont/C13880"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
@@ -25,10 +25,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C45175"
+        "@id": "https://w3id.org/ocs/ont/C39573"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39573"
+        "@id": "https://w3id.org/ocs/ont/C45175"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17856"
+        "@id": "https://w3id.org/ocs/ont/C21288"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21288"
+        "@id": "https://w3id.org/ocs/ont/C17856"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16125"
@@ -33,37 +33,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C38377"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39942"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36859"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3840"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C44384"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40975"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4218"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37392"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42661"
+        "@id": "https://w3id.org/ocs/ont/C38277"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41541"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41514"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33377"
@@ -72,7 +48,31 @@
         "@id": "https://w3id.org/ocs/ont/C1511"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38277"
+        "@id": "https://w3id.org/ocs/ont/C38377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42661"
       }
     ]
   }

@@ -16,28 +16,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@id": "https://w3id.org/ocs/ont/C22300"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C18359"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23628"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19551"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C18369"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29230"
+        "@id": "https://w3id.org/ocs/ont/C19551"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13876"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29230"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -51,22 +51,16 @@
         "@id": "https://w3id.org/ocs/ont/C32922"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14093"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8271"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C32131"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45512"
+        "@id": "https://w3id.org/ocs/ont/C6289"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38214"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40660"
+        "@id": "https://w3id.org/ocs/ont/C8271"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6279"
@@ -75,13 +69,19 @@
         "@id": "https://w3id.org/ocs/ont/C31148"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23628"
+        "@id": "https://w3id.org/ocs/ont/C45512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14093"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13876"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6289"
+        "@id": "https://w3id.org/ocs/ont/C23628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40660"
       }
     ]
   }

@@ -28,13 +28,13 @@
         "@id": "https://w3id.org/ocs/ont/C43694"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C39809"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C14919"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13541"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39809"
       }
     ]
   }

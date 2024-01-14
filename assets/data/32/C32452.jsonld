@@ -30,9 +30,6 @@
         "@id": "https://w3id.org/ocs/ont/C19548"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38502"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
@@ -40,6 +37,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38502"
       }
     ]
   }

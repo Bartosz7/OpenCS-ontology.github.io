@@ -30,7 +30,7 @@
         "@id": "https://w3id.org/ocs/ont/C5092"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4906"
+        "@id": "https://w3id.org/ocs/ont/C1332"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9328"
@@ -39,10 +39,10 @@
         "@id": "https://w3id.org/ocs/ont/C5243"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5863"
+        "@id": "https://w3id.org/ocs/ont/C4906"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1332"
+        "@id": "https://w3id.org/ocs/ont/C5863"
       }
     ]
   }
