@@ -1,7 +1,8 @@
 ---
-latest_stable: 0.3.5
+latest_stable: 0.3.6
 layout: version_list
 versions:
+- 0.3.6
 - 0.3.5
 - 0.3.4
 - 0.3.3
