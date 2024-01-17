@@ -9,6 +9,12 @@
         "@id": "https://w3id.org/ocs/ont/C12111"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5616"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C3393"
       },
       {
@@ -16,12 +22,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3569"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2352"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5616"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [

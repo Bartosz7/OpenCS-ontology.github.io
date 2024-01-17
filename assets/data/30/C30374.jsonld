@@ -25,9 +25,6 @@
         "@id": "https://w3id.org/ocs/ont/C23927"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37335"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C42974"
       },
       {
@@ -35,6 +32,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37335"
       }
     ]
   }

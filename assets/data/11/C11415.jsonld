@@ -31,28 +31,16 @@
         "@id": "https://w3id.org/ocs/ont/C40280"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29181"
+        "@id": "https://w3id.org/ocs/ont/C14003"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2352"
+        "@id": "https://w3id.org/ocs/ont/C3394"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7106"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21230"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17238"
+        "@id": "https://w3id.org/ocs/ont/C8395"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35701"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C197"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27500"
@@ -61,28 +49,40 @@
         "@id": "https://w3id.org/ocs/ont/C6592"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3394"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26773"
+        "@id": "https://w3id.org/ocs/ont/C7106"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1901"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14003"
+        "@id": "https://w3id.org/ocs/ont/C26"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9700"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11761"
+        "@id": "https://w3id.org/ocs/ont/C197"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1253"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8395"
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
       }
     ]
   }

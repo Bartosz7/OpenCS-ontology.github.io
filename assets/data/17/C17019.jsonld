@@ -9,6 +9,9 @@
         "@id": "https://w3id.org/ocs/ont/C6834"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C6124"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5706"
       },
       {
@@ -16,9 +19,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4099"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6124"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

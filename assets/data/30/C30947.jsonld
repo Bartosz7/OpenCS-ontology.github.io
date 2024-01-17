@@ -28,25 +28,25 @@
         "@id": "https://w3id.org/ocs/ont/C41097"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7056"
+        "@id": "https://w3id.org/ocs/ont/C9483"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7358"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13143"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20086"
+        "@id": "https://w3id.org/ocs/ont/C44198"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20809"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44198"
+        "@id": "https://w3id.org/ocs/ont/C20086"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9483"
+        "@id": "https://w3id.org/ocs/ont/C7056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13143"
       }
     ]
   }

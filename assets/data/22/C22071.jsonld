@@ -22,9 +22,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15777"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C2472"
       },
       {
@@ -32,6 +29,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15777"
       }
     ]
   }

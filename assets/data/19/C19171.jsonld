@@ -33,13 +33,13 @@
         "@id": "https://w3id.org/ocs/ont/C28708"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36512"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19253"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36512"
       }
     ]
   }
